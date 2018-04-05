@@ -3,7 +3,7 @@ This jupyter notebook solves non-similar non-linear normal mode with non-symetri
 
 
 ## Links to Packages and Paper Used
-'_Mousai <https://github.com/josephcslater/mousai.git>'_: created by Dr. Joesph Slater
+_`Mousai <https://github.com/josephcslater/mousai.git>`_: created by Dr. Joesph Slater
 
 
   
