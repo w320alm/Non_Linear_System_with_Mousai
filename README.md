@@ -3,9 +3,9 @@ This jupyter notebook solves non-similar non-linear normal mode with non-symetri
 
 
 ## Links to Packages and Paper Used
-Mousai: created by Dr. Joesph Slater
+'_Mousai <https://github.com/josephcslater/mousai.git>'_: created by Dr. Joesph Slater
 
-  https://github.com/josephcslater/mousai.git
+
   
 Vibration Toolbox: created by Dr. Joesph Slater
 
