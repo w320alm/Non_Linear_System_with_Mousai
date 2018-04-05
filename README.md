@@ -5,10 +5,6 @@ This jupyter notebook solves non-similar non-linear normal mode with non-symetri
 ## Links to Packages and Paper Used
 [Mousai](https://github.com/josephcslater/mousai.git) : created by Dr. Joesph Slater
 
-Vibration Toolbox: created by Dr. Joesph Slater
-
-  https://github.com/vibrationtoolbox/vibration_toolbox.git
+[Vibration Toolbox]( https://github.com/vibrationtoolbox/vibration_toolbox.git) : created by Dr. Joesph Slater
   
-Non-Linear Normal Modes (NNM) and There Applications in Vibration Theory: an Overview by A.F. Vakakis
-
-  https://www.archives-ouvertes.fr/hal-01354037/document
+[Non-Linear Normal Modes (NNM) and There Applications in Vibration Theory: an Overview]( https://www.archives-ouvertes.fr/hal-01354037/document) by A.F. Vakakis
