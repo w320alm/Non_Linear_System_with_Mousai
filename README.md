@@ -1,5 +1,5 @@
 # Non-Linear System Solved with Mousai
-This jupyter notebook solves non-similar non-linear normal mode with non-symetric grounding stiffness equations of motion using Mousai,a harmonic-balance solver. The Vibration Toolbox was used to solve key factors, the natural frequency and initial conditions, to be used in the built in Mousai function that is used to solve the system of equations being used. 
+This jupyter notebook solves non-similar non-linear normal mode with non-symetric grounding stiffness equations of motion using Mousai, a harmonic-balance solver. The Vibration Toolbox was used to solve key factors, the natural frequency and initial conditions, to be used in the built in Mousai function that is used to solve the system of equations being used. 
 
 
 ## Links to Packages and Paper Used
